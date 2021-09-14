@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/robo_finder/static/css/main.5327c622.chunk.css",
+    "main.js": "/robo_finder/static/js/main.8a01752a.chunk.js",
+    "main.js.map": "/robo_finder/static/js/main.8a01752a.chunk.js.map",
+    "runtime-main.js": "/robo_finder/static/js/runtime-main.8368f81c.js",
+    "runtime-main.js.map": "/robo_finder/static/js/runtime-main.8368f81c.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/robo_finder/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.dd08f711.chunk.js": "/robo_finder/static/js/2.dd08f711.chunk.js",
+    "static/js/2.dd08f711.chunk.js.map": "/robo_finder/static/js/2.dd08f711.chunk.js.map",
+    "index.html": "/robo_finder/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/robo_finder/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.5327c622.chunk.css.map": "/robo_finder/static/css/main.5327c622.chunk.css.map",
+    "static/js/2.dd08f711.chunk.js.LICENSE.txt": "/robo_finder/static/js/2.dd08f711.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8368f81c.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.dd08f711.chunk.js",
+    "static/css/main.5327c622.chunk.css",
+    "static/js/main.8a01752a.chunk.js"
+  ]
+}
